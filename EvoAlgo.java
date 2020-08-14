@@ -7,7 +7,6 @@ package evoalgo;
 
 /**
  *
- * @author sonu
  */
 public class EvoAlgo {
 
@@ -16,7 +15,6 @@ public class EvoAlgo {
      */
     static int[] sort = new int[9]; 
     public static void main(String[] args) {
-        // TODO code application logic here
         int array1[][] = new int[5][2]; int r1,r2= 0; int r5 = 0; int r6 = 0;
         int array2[][] = new int[9][2]; int array3[][] = new int[9][2]; int r3 = 0,r4 = 0; int r7 = 0; int r8 = 0;
         array1[0][0] = 1; array1[0][1] = 2; array1[1][0] = -2; array1[1][1] = -3;
